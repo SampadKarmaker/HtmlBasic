@@ -1,2 +1,2 @@
 # HtmlBasic
-Web
+Learning new things day by day
